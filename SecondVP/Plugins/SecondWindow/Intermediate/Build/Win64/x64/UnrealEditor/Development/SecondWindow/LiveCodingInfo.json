@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SecondWindow.cpp.obj": [
+			"SecondWindow.init.gen.cpp.obj",
+			"SecondWindow_library.gen.cpp.obj",
+			"SecondWindow.cpp.obj",
+			"SecondWindow_library.cpp.obj"
+		]
+	}
+}

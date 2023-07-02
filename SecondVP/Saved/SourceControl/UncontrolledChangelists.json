@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projekty/UE5/secondVP/SecondVP/Plugins/SecondWindow/Content/Second_screen.uasset",
+				"D:/Projekty/UE5/secondVP/SecondVP/Plugins/SecondWindow/Content/BP_Second_screen_capture.uasset",
+				"D:/Projekty/UE5/secondVP/SecondVP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset"
+			]
+		}
+	]
+}

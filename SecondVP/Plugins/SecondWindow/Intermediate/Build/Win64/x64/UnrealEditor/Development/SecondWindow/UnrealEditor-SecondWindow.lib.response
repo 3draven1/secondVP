@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SecondWindow.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projekty\UE5\secondVP\SecondVP\Intermediate\Build\Win64\x64\SecondVPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\Projekty\UE5\secondVP\SecondVP\Plugins\SecondWindow\Intermediate\Build\Win64\x64\UnrealEditor\Development\SecondWindow\Module.SecondWindow.cpp.obj"
+"D:\Projekty\UE5\secondVP\SecondVP\Plugins\SecondWindow\Intermediate\Build\Win64\x64\UnrealEditor\Development\SecondWindow\Default.rc2.res"
+/OUT:"D:\Projekty\UE5\secondVP\SecondVP\Plugins\SecondWindow\Intermediate\Build\Win64\x64\UnrealEditor\Development\SecondWindow\UnrealEditor-SecondWindow.lib"

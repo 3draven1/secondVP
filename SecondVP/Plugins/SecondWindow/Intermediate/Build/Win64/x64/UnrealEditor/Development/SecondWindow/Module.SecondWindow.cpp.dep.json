@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\secondwindow\\module.secondwindow.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projekty\\ue5\\secondvp\\secondvp\\intermediate\\build\\win64\\x64\\secondvpeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\secondwindow\\definitions.secondwindow.h",
+            "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\intermediate\\build\\win64\\unrealeditor\\inc\\secondwindow\\uht\\secondwindow.init.gen.cpp",
+            "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\intermediate\\build\\win64\\unrealeditor\\inc\\secondwindow\\uht\\secondwindow_library.gen.cpp",
+            "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\source\\secondwindow\\public\\secondwindow_library.h",
+            "d:\\programy\\unreal engine\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget2d.h",
+            "d:\\programy\\unreal engine\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget.h",
+            "d:\\programy\\unreal engine\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget.generated.h",
+            "d:\\programy\\unreal engine\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget2d.generated.h",
+            "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\intermediate\\build\\win64\\unrealeditor\\inc\\secondwindow\\uht\\secondwindow_library.generated.h",
+            "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\source\\secondwindow\\private\\secondwindow.cpp",
+            "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\source\\secondwindow\\public\\secondwindow.h",
+            "d:\\projekty\\ue5\\secondvp\\secondvp\\plugins\\secondwindow\\source\\secondwindow\\private\\secondwindow_library.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
